@@ -21,7 +21,7 @@ int main()
 	cout << "Your age in minutes: " << minutes << endl;
 	cout << "Your age in seconds: " << seconds << endl;
 	cout << " " << endl;
-		cout << "Okay, please tell me how many hours you sleep per day." << endl;
+		cout << "Okay, please tell me how many hours you sleep per night." << endl;
 		cout << " " << endl;
 			cout << "Sleep: " << endl;
 			cin >> sleep;
